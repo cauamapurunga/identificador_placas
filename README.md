@@ -17,3 +17,6 @@ Este é um projeto desenvolvido como parte do meu trabalho do primeiro semestre 
 
 3- Para encerrar o programa, digite "parar".
 
+<p align="center">
+  <img src="https://github.com/cauamapurunga/identificador_placas/assets/127144406/001a8c31-a882-4382-970a-e14e1b7eda76">
+</p>
